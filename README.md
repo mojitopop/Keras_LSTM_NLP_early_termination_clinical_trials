@@ -31,7 +31,9 @@ Pipeline :
     - study competition
     - trial no longer needed
 
-  ![image](https://github.com/user-attachments/assets/8f41703c-db37-4b69-a448-9e645cdb13ba)
+  ![nlp1](https://github.com/user-attachments/assets/bd6feabf-b4da-4d00-bea1-021581952686)![nlp2](https://github.com/user-attachments/assets/bfea7605-2b48-4002-abaa-66f9bd27eef7)
+
+
 
 We turn these into binary one hot encoded variables and we manually annotate 40% of the dataset to use as training.
 
